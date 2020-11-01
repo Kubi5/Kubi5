@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Kubi and im **trying** to make some changes on my github profile.
+:)
+
+
+
 
 <!--
 **Kubi5/Kubi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
