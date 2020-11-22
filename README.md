@@ -2,7 +2,7 @@
 I'm Kubi and im **trying** to make some changes on my github profile.
 :)
 
-My page: kubi.github.io (i hope it's working:/)
+My page: (kubi.github.io) (i hope it's working:/)
 
 
 
