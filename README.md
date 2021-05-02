@@ -1,11 +1,7 @@
 ### Hi there 👋
-I'm Kubi and im **trying** to make some changes on my github profile.
+
 :)
 
-* [My page](https://kubi5.github.io/kubi.github.io/) <p> 
-
-
-* [fork_test](https://github.com/Kubi5/DeepCTR)
 
 
 <!--
